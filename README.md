@@ -1,4 +1,5 @@
 [![Visited](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=Visited&size=small)](https://myhits.vercel.app)
+[![Visited](https://myhits.vercel.app/api/hit/PROFILE_README?color=blue&label=Visited&size=small)](https://myhits.vercel.app)
 
 # This is Jay 👋  
 
@@ -31,7 +32,7 @@
   <a href="mailto:jay.bjkim0109@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://github.com/kbj0109" target="_blank">
+  <a href="https://github.com/jay-bjkim0109" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
@@ -39,7 +40,7 @@
 
 
 ## 📚 My Portfolio
-- [kbj-nestjs-backend](https://github.com/kbj0109/kbj-nestjs-backend)
+- [kbj-nestjs-backend](https://github.com/jay-bjkim0109/kbj-nestjs-backend)
 
 
 ## 💪 Skills
