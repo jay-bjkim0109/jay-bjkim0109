@@ -1,5 +1,4 @@
-[![Visited](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=Visited&size=small)](https://myhits.vercel.app)
-[![Visited](https://myhits.vercel.app/api/hit/PROFILE_README?color=blue&label=Visited&size=small&base_count=111647)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjay-bjkim0109?color=blue&label=hits&size=small&base_count=111647)](https://myhits.vercel.app)
 
 # This is Jay 👋  
 
